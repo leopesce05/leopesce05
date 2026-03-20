@@ -70,21 +70,6 @@
 </div>
 
 
-###
-<h2 align="left">📊  GitHub Stats:</h2>
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=leopesce05&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" 
-       alt="GitHub Stats" 
-       style="height: 200px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leopesce05&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" 
-       alt="Top Languages" 
-       style="height: 200px;"/>
-</div>
-
-
-
-###
-
 <br clear="both">
 
 <picture>
